@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TamarinES
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ameyibo
+Implementation-Vendor-Id: TamarinES
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/TamarinES/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
